@@ -65,8 +65,9 @@ img {
 p {
   font-family: 'Zeyada';
   font-size: 50px;
-  color: rgb(0, 0, 0);
+  color: rgb(227, 15, 15);
   opacity: 0.75;
   user-select: none;
-
+  
+  filter: drop-shadow(2px 1.5px 1px rgba(255, 255, 255, 0.9));
 }
